@@ -1,0 +1,14 @@
+/Users/mhalsey/Documents/Projects/My_First_C#_Code/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1
+/Users/mhalsey/Documents/Projects/My_First_C#_Code/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.deps.json
+/Users/mhalsey/Documents/Projects/My_First_C#_Code/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.runtimeconfig.json
+/Users/mhalsey/Documents/Projects/My_First_C#_Code/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.dll
+/Users/mhalsey/Documents/Projects/My_First_C#_Code/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.pdb
+/Users/mhalsey/Documents/Projects/My_First_C#_Code/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mhalsey/Documents/Projects/My_First_C#_Code/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.AssemblyInfoInputs.cache
+/Users/mhalsey/Documents/Projects/My_First_C#_Code/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.AssemblyInfo.cs
+/Users/mhalsey/Documents/Projects/My_First_C#_Code/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/Users/mhalsey/Documents/Projects/My_First_C#_Code/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.dll
+/Users/mhalsey/Documents/Projects/My_First_C#_Code/ConsoleApp1/obj/Debug/net8.0/refint/ConsoleApp1.dll
+/Users/mhalsey/Documents/Projects/My_First_C#_Code/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.pdb
+/Users/mhalsey/Documents/Projects/My_First_C#_Code/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.genruntimeconfig.cache
+/Users/mhalsey/Documents/Projects/My_First_C#_Code/ConsoleApp1/obj/Debug/net8.0/ref/ConsoleApp1.dll
